@@ -1,0 +1,55 @@
+-----INSERT INTO
+INSERT INTO  Branchdata(Branchnumber,Location) Values ( '3000','Windsor');
+
+-----DELETE 
+DELETE FROM Branchdata WHERE Branchnumber='3000';
+
+----Order Data Alphabetical Column
+SELECT BranchNumber,Location FROM Branchdata ORDER BY Location ASC;
+
+----Order Data Numerical Column
+SELECT BranchNumber,Location FROM Branchdata ORDER BY BranchNumber ASC;
+ 
+---Join to Combine all three tables
+SELECT *FROM Transactiondata JOIN Customerdata ON Transactiondata.CustomerID = Customerdata.Customerid JOIN Branchdata ON Customerdata.Homebranch = Branchdata.Branchnumber;
+
+----Group Data logically By 
+SELECT BranchNumber, Count(*) FROM Branchdata GROUP BY BranchNumber;
+SELECT TransactionCity,Count(*) FROM Transactiondata GROUP BY Transactioncity;
+
+---Query to Identify Any Transaction Under $300
+SELECT *FROM Transactiondata WHERE transactionamount<300 and transactioncity = 'Toronto';
+
+---Query to Identify Customers Whose Name Contains the letter 'm'
+SELECT *FROM Customerdata WHERE Name LIKE '%m%';
+
+---Maximum Transaction Amount
+SELECT TransactionType, MAX(Transactionamount) AS Maximum FROM Transactiondata;
+
+---Minimum Transaction Amount
+SELECT TransactionType, MIN(Transactionamount) AS Minimum FROM Transactiondata;
+
+---Average Transaction Amount
+SELECT TransactionType, AVG(Transactionamount) AS Average FROM Transactiondata;
+
+----Range of Transaction Amount
+SELECT MAX(Transactionamount) - MIN(Transactionamount) AS AvgSpend FROM Transactiondata;
+
+---Average Transaction Amount By City 
+SELECT Transactioncity, AVG(Transactionamount) AS AvgSpend FROM Transactiondata GROUP BY Transactioncity;
+
+---Average Transaction Amount By Type
+SELECT Transactiontype, AVG(Transactionamount) AS AvgSpend FROM Transactiondata GROUP BY Transactiontype;
+
+---Customers Transaction in a City other than their home city
+SELECT COUNT(*) FROM Customerdata JOIN TransactionData ON CustomerData.CustomerID = TransactionData.CustomerID WHERE CustomerData.City <> Transactiondata.Transactioncity;
+
+
+-----
+
+
+
+
+
+
+
