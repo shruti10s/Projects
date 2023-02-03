@@ -3,8 +3,8 @@
 # About
 Hi, I'm Shruti! I have a technical background and hold a Master of Engineering (M.Eng.) degree in Chemical Engineering. I have recently completed my certification in Data Science. I am showcasing my data science projects below.
 
-Portfolio Projects
-In this section, different type of projects in SQL, Python and Tableau are undertaken. 
+# Portfolio Projects
+In this section, different type of projects in SQL, Python and Tableau are presented. 
 
 
 ## Model for Unit Price of Properties on Airbnb
