@@ -6,6 +6,7 @@ Hi, I'm Shruti! I have a technical background and hold a Master of Engineering (
 Portfolio Projects
 In this section, different type of projects in SQL, Python and Tableau are undertaken. 
 
+##### Table of Contents 
 ## Model for Unit Price of Properties on Airbnb
  [code](Airbnb_NY.ipynb)
 
