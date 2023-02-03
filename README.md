@@ -6,9 +6,10 @@ Hi, I'm Shruti! I have a technical background and hold a Master of Engineering (
 Portfolio Projects
 In this section, different type of projects in SQL, Python and Tableau are undertaken. 
 
-##### Table of Contents 
+
 ## Model for Unit Price of Properties on Airbnb
- [code](Airbnb_NY.ipynb)
+Code: [Airbnb_NY.ipynb]
+Presentation: 
 
 Description: The dataset contains 48895 records. The list of columns include latitude, longitude, location, room type, reviews, minimum night of stay, host listing count, last review. The following steps were taken: Data loading, EDA (exploratory data analysis), Univariate analysis, Data cleaning, Bivariate analysis, feature engineering, Regression Analysis and Hyperparameter tuning 
 
