@@ -8,9 +8,11 @@ In this section, different type of projects in SQL, Python and Tableau are under
 
 
 ## Model for Unit Price of Properties on Airbnb
-#Code: [Airbnb_NY.ipynb](Code)
-#Presentation: [Airbnb.pdf](presentation)
-#Description: The dataset contains 48895 records. The list of columns include latitude, longitude, location, room type, reviews, minimum night of stay, host listing count, last review. The following steps were taken: Data loading, EDA (exploratory data analysis), Univariate analysis, Data cleaning, Bivariate analysis, feature engineering, Regression Analysis and Hyperparameter tuning 
+Code: [Airbnb_NY.ipynb](Code)
+
+Presentation: [Airbnb.pdf](presentation)
+
+Description: The dataset contains 48895 records. The list of columns include latitude, longitude, location, room type, reviews, minimum night of stay, host listing count, last review. The following steps were taken: Data loading, EDA (exploratory data analysis), Univariate analysis, Data cleaning, Bivariate analysis, feature engineering, Regression Analysis and Hyperparameter tuning 
 
 Skills: Data cleaning, Data analysis, Descriptive statistics, Data visualization
 
@@ -20,6 +22,9 @@ Results: Predicting unit price of properties for the host. Neighbourhood, prices
 
 
 ## Life Insurance Risk Prediction Using Machine Learning Algorithm 
+Code: [](Code)
+
+Presentation: [](presentation
 
 Description: The dataset contains 59,381 records. The columns are employment information, medical history, family history, product information, medical keyword. The following steps were taken: Data loading, EDA(exploratory data analysis), Data cleaning and preprocessing, feature engineering, multi class classification model and confusion report. 
 
