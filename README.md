@@ -8,7 +8,7 @@ In this section, different type of projects in SQL, Python and Tableau are under
 
 
 ## Model for Unit Price of Properties on Airbnb
-Code: (Airbnb_NY.ipynb)
+Code: (Airbnb_NY.ipynb)[Airbnb_NY.ipynb]
 
 Presentation: 
 
