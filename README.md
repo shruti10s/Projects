@@ -79,12 +79,12 @@ Technology: Python, Pandas, Numpy, Scipy Stats, Seaborn and Matplotlib,
 Results: Regression analysis was done to predict what factors are effecting the car price. Also dummy variables was created. 
 Customer Analytics
 
-## Tableau Public
+## Customer Analysis
 
 Description: Tableau Public dashboard consisted of showcasing  customer analysis based on categories and different types of graphs such as donut graph, bar graph, butterfly graph, scatter plot and also showing different regions on map. 
 
 Skills: Creating dashboard and using different graphs to do it. 
 
-Technology: Tableau.
+Technology: Tableau
 
 Results: Created an analytical dashboard to support customer analysis based on revenue, gender and category
