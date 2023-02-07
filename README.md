@@ -92,9 +92,9 @@ Results: Prediction weather customer defaults on the payment or not. In addition
 Customer Analytics
 
 ## Customer Analysis Dashboard
-**Tableau Public**: [Dashboard](https://public.tableau.com/app/profile/ss3033/viz/customer_16751360163790/Dashboard3)
+**Tableau Public**: [Dashboard](https://public.tableau.com/app/profile/ss3033/viz/Sales_16758088788210/Dashboard3?publish=yes)
 
-**Description**: Tableau dashboard consisted of showcasing  customer analysis based on categories and different types of graphs such as donut graph, bar graph, butterfly graph, scatter plot and also showing different regions on map. 
+**Description**: Tableau dashboard consisted of showcasing sales analysis based on categories and different types of graphs such as donut graph, bar graph, butterfly graph, scatter plot and also showing different regions on map. 
 
 **Skills**: Creating dashboard and using different graphs to do it. 
 
