@@ -91,7 +91,7 @@ Results: Prediction weather customer defaults on the payment or not. In addition
 **Results**: Regression analysis was done to predict what factors are effecting the car price. Also dummy variables was created. 
 Customer Analytics
 
-## Customer Analysis Dashboard
+## Sales Analysis Dashboard
 **Tableau Public**: [Dashboard](https://public.tableau.com/app/profile/ss3033/viz/Sales_16758088788210/Dashboard3?publish=yes)
 
 **Description**: Tableau dashboard consisted of showcasing sales analysis based on categories and different types of graphs such as donut graph, bar graph, butterfly graph, scatter plot and also showing different regions on map. 
