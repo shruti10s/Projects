@@ -10,7 +10,7 @@ In this section, different type of projects in SQL, Python and Tableau are prese
 ## Model for Unit Price of Properties on Airbnb
 **Code**: [Airbnb_NY.ipynb](https://github.com/shruti10s/Projects/blob/5d3427b4a18f1b8572517bf13a107095820696fa/Airbnb_NY.ipynb)
 
-**Presentation**: [Airbnb.pdf](presentation)
+**Presentation**: [Airbnb.pdf](https://github.com/shruti10s/Projects/blob/main/Airbnb.pdf)
 
 **Description**: The dataset contains 48895 records. The list of columns include latitude, longitude, location, room type, reviews, minimum night of stay, host listing count, last review. The following steps were taken: Data loading, EDA (exploratory data analysis), Univariate analysis, Data cleaning, Bivariate analysis, feature engineering, Regression Analysis and Hyperparameter tuning 
 
@@ -22,9 +22,9 @@ In this section, different type of projects in SQL, Python and Tableau are prese
 
 
 ## Life Insurance Risk Prediction Using Machine Learning Algorithm 
-**Code** : [Insurance_Assestment.ipynb](Code)
+**Code** : [Insurance_Assestment.ipynb](https://github.com/shruti10s/Projects/blob/main/Insurance_Assestment.ipynb)
 
-**Presentation**:[Insurance.pdf](presentation)
+**Presentation**:[Insurance.pdf](https://github.com/shruti10s/Projects/blob/main/Insurance.pdf)
 
 **Description**: The dataset contains 59,381 records. The columns are employment information, medical history, family history, product information, medical keyword. The following steps were taken: Data loading, EDA(exploratory data analysis), Data cleaning and preprocessing, feature engineering, multi class classification model and confusion report. 
 
@@ -35,7 +35,7 @@ In this section, different type of projects in SQL, Python and Tableau are prese
 **Results**: Multiclass classification modelling was used to predict accuracy of the model. Random forest gave the best results.  Modelling helps to predict the accuracy of the risk assessment associated with insurance application as insurance companies are investing in making the process automated. 
 
 ## Database Creation with Customer Data, Branch Data and Transaction Data using SQL
-**Code**: [Database_Queries.txt](Code)
+**Code**: [Database_Queries.txt](https://github.com/shruti10s/Projects/blob/main/Database_Queries.txt)
 
 **Description**: Database was created using three different tables. Primary and foreign key was used to join the tables and analysis was done on them. 
 
@@ -46,7 +46,7 @@ In this section, different type of projects in SQL, Python and Tableau are prese
 **Results**:  Analyzing customer, branch and transaction data based on amount, city for instance.
 
 ## Cereal Dataset
-**Code**: [Cereal.ipynb](Code)
+**Code**: [Cereal.ipynb](https://github.com/shruti10s/Projects/blob/5d3427b4a18f1b8572517bf13a107095820696fa/Cereal.ipynb)
 
 **Description**: The dataset contains 77 records. The columns are manufacture, calories, protein, fat, sodium, fibre, vitamins information. The following steps were taken: Data loading, EDA (exploratory data analysis), Data cleaning and preprocessing
 
@@ -57,7 +57,7 @@ In this section, different type of projects in SQL, Python and Tableau are prese
 **Results**: Predictors of customer rating based on the type of cereals was analyzed using exploratory analysis and visualization
 
 ## Time Series Analysis of Financial Data
-**Code**: [Time_Series.ipynb](Code)
+**Code**: [Time_Series.ipynb](https://github.com/shruti10s/Projects/blob/main/Time_Series.ipynb)
 
 **Description**:  Stocks of 4 companies are downloaded using yahoo finance. Analysis is made on the stock price end of month and the next month. Auto correlation and auto shift is used. 
 
@@ -69,7 +69,7 @@ In this section, different type of projects in SQL, Python and Tableau are prese
 
 
 ## Default of Credit Card Client using Classification Model 
-**Code**: [Classification.ipynb](Code)
+**Code**: [Classification.ipynb](https://github.com/shruti10s/Projects/blob/main/Classification.ipynb)
 
 **Description**: The dataset contains 30,000. The columns are age, marriage, education, gender, bill amount, limit balance, default payment. The following steps were taken: Data loading, EDA(exploratory data analysis), Data cleaning and preprocessing, feature engineering, pipeline, classification model ,confusion matrix and report, ensemble models, randomized search, grid search and hyperparameter tuning. 
 
@@ -80,7 +80,7 @@ Results: Prediction weather customer defaults on the payment or not. In addition
 
 
 ## Car Price Analysis using Regression Model 
-**Code**: [Car.ipynb](Code)
+**Code**: [Car.ipynb](https://github.com/shruti10s/Projects/blob/5d3427b4a18f1b8572517bf13a107095820696fa/Car.ipynb)
 
 **Description**: The dataset contains 300 records. The columns are car type, present price, selling price, kms driven, fuel type, owner and transmission, The following steps were taken: Data loading, EDA(exploratory data analysis), Data cleaning, Preprocessing and Regression analysis
 
